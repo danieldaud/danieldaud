@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate data enthusiast from Jakarta</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/adho7VbkF1wAAAAM/lofi-girl.gif">
+<img align="right" alt="Coding" width="300" src="https://github.com/danieldaud/danieldaud/blob/main/lofi%20study%20session%20(1).gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
