@@ -1,6 +1,6 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
-<h1 align="center">Hi Stranger!<a href="https://emoji.gg/emoji/1545-pika-hi"><img src="https://cdn3.emoji.gg/emojis/1545-pika-hi.gif" width="32px" height="32px" alt="Pika_Hi"></a> </h1>
+<h1 align="center">Hi Stranger! <a href="https://emoji.gg/emoji/1545-pika-hi"><img src="https://cdn3.emoji.gg/emojis/1545-pika-hi.gif" width="32px" height="32px" alt="Pika_Hi"></a> </h1>
 <h3 align="center">A passionate data enthusiast from Jakarta</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/danieldaud/danieldaud/blob/main/LofiStudySession.gif">
